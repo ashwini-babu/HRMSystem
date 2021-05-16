@@ -1,0 +1,23 @@
+Searching 6137 files for "Human Management System "
+
+C:\xampp\htdocs\eg\header.php:
+    4    	<meta charset="utf-8">
+    5    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    6:   	<title>Human Management System  System</title>
+    7    	<!-- Tell the browser to be responsive to screen width -->
+    8    	<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+
+C:\xampp\htdocs\eg\admin\includes\footer.php:
+    3        <b>@<a href="#">Mustafa</a></b>
+    4      </div>
+    5:     <strong>Copyright &copy; 2018 HRM, Human Management System  System </strong>
+    6  </footer>
+
+C:\xampp\htdocs\eg\admin\includes\header.php:
+    4    	<meta charset="utf-8">
+    5    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    6:   	<title>Human Management System  System</title>
+    7    	<!-- Tell the browser to be responsive to screen width -->
+    8    	<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+
+3 matches across 3 files
